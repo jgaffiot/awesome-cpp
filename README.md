@@ -1,5 +1,5 @@
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shy things. Inspired by awesome-... stuff.
 
 - [Awesome C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
@@ -45,6 +45,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
 	- [Compiler](#compiler)
+	- [Interpreter](#interpreter)
 	- [Online Compiler](#online-compiler)
 	- [Debugger](#debugger)
 	- [Integrated Development Environment](#integrated-development-environment)
@@ -852,6 +853,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Open WatCom](http://www.openwatcom.org/index.php/Main_Page) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
+
+## Interpreter
+
+* [cling](https://github.com/root-project/cling) - A fully compatible C++98/11/14 interpreter, built on top of [Clang](http://clang.llvm.org/). Yes it exists and yes it works even with nasty templates. Also embedded in [ROOT](https://root.cern/).
+* [xeus-cling](https://github.com/QuantStack/xeus-cling) - A [Jupyter](https://jupyter.org/) kernel for C++, built on top of cling.
 
 ## Online Compiler
 *List of online C or C++ compilers*
